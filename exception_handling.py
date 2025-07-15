@@ -7,3 +7,5 @@ try:
   print(x)
 except:
   print("An exception occured")
+else:
+  print("Nothing went wrong")
